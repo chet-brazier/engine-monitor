@@ -11,6 +11,7 @@ This project is a cloud-deployed Python system that monitors camera streams via 
 - Configurable via `.env` and JSON camera list
 
 ## Architecture Diagram
+![Flowchart](./8420ffdd-8638-4adf-b81a-f3ab5f46d818.png)
 
 
 ## Stack used
