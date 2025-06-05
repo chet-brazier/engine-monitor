@@ -1,0 +1,502 @@
+[
+  {
+    "camera_id": 71895,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.74.18:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71898,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.74.33:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71896,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.74.12:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71900,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.74.14:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71894,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.74.19:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71893,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.74.27:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71892,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.74.54:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71891,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.74.47:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71902,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.74.39:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71903,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.74.40:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71844,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.82.10:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71905,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.80.48:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71874,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.78.39:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71879,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.78.37:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71882,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.72.21:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71884,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.72.36:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71885,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.72.59:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71871,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.78.47:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71872,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.78.40:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71873,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.78.45:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71876,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.78.43:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71877,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.78.50:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71878,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.78.56:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71852,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.82.51:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71854,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.82.35:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71855,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.82.28:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71856,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.82.29:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71858,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.82.44:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71859,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.82.42:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71860,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.82.62:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71861,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.82.63:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 72040,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.72.98:554/MediaInput/hevc",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71826,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.76.79:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71827,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.76.82:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71831,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.76.74:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71836,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.76.72:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71835,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.76.26:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71837,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.76.17:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71838,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.76.60:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71840,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.76.13:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71842,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.82.56:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71841,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.76.62:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71828,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.76.40:554/cam/realmonitor?channel=1&subtype=0",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71839,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.76.54:554/cam/realmonitor?channel=1&subtype=0",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71843,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.82.32:554/cam/realmonitor?channel=1&subtype=0",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71829,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.76.24:554/cam/realmonitor?channel=1&subtype=0",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71830,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.76.63:554/cam/realmonitor?channel=1&subtype=0",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71832,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.76.48:554/cam/realmonitor?channel=1&subtype=0",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71833,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.76.42:554/cam/realmonitor?channel=1&subtype=0",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71834,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.76.52:554/cam/realmonitor?channel=1&subtype=0",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71846,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.82.26:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71847,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.82.25:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71848,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.82.45:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71857,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.82.70:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71849,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.82.43:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71850,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.82.38:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71851,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.82.39:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71845,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.82.53:554/cam/realmonitor?channel=1&subtype=0",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71853,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.82.41:554/cam/realmonitor?channel=1&subtype=0",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71880,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.72.92:554/cam/realmonitor?channel=1&subtype=0",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71875,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.78.30:554/cam/realmonitor?channel=1&subtype=0",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71868,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.78.10:554/cam/realmonitor?channel=1&subtype=0",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71867,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.78.77:554/cam/realmonitor?channel=1&subtype=0",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71866,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.78.73:554/cam/realmonitor?channel=1&subtype=0",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71865,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.78.61:554/cam/realmonitor?channel=1&subtype=0",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71870,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.78.27:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71869,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.78.58:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71863,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.82.50:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71862,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.82.49:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71881,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.72.91:554/cam/realmonitor?channel=1&subtype=0",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71864,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.78.59:554/cam/realmonitor?channel=1&subtype=0",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71883,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.72.58:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71887,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.72.50:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71889,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.72.106:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71888,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.72.15:554/cam/realmonitor?channel=1&subtype=0",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71886,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.72.13:554/cam/realmonitor?channel=1&subtype=0",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71920,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.80.22:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71890,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.72.72:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71921,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.80.60:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71919,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.80.44:554/cam/realmonitor?channel=1&subtype=0",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71916,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.80.42:554/cam/realmonitor?channel=1&subtype=0",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71912,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.80.59:554/cam/realmonitor?channel=1&subtype=0",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71909,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.80.10:554/cam/realmonitor?channel=1&subtype=0",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71906,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.80.15:554/cam/realmonitor?channel=1&subtype=0",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71899,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.74.43:554/cam/realmonitor?channel=1&subtype=0",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71897,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.74.22:554/cam/realmonitor?channel=1&subtype=0",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71907,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.80.14:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71910,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.80.13:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71908,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.80.51:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71911,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.80.17:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71913,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.80.32:554/MediaInput/hevc",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71914,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.80.30:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71915,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.80.33:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71917,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.80.36:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71918,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.80.45:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71904,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.80.56:554/cam/realmonitor?channel=1&subtype=0",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 71922,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.80.47:554/MediaInput/h265",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 72038,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.72.65:554/cam/realmonitor?channel=1&subtype=2",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 72039,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.74.15:554/MediaInput/hevc",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  },
+  {
+    "camera_id": 72041,
+    "rtsp": "rtsp://admin:Acdcrules25@192.0.2.72.124:554/MediaInput/hevc",
+    "engine": "andesch-pubk12-pesc-ent-001"
+  }
+]
