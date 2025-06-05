@@ -12,7 +12,7 @@ SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")
 
 # Constants
 CHECK_INTERVAL = 60  # seconds
-DOWNTIME_THRESHOLD = timedelta(seconds=60)
+DOWNTIME_THRESHOLD = timedelta(minutes=30)
 CONFIG_PATH = "config.json"
 
 # Load camera configuration
